@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkshayKataria1911
+- 👋 Hi, I’m @Akshay Kataria
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Dsa , c++
 - 📫 How to reach me ...
